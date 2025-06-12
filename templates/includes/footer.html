@@ -19,4 +19,23 @@
 		</section>
 	</div><!-- //container -->
 </footer>
+
 <!-- ========================= FOOTER END // ========================= -->
+<script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	
+  {% comment %} function changeMainImage(url) {
+    document.getElementById("mainImage").src = url;
+  }
+
+ $(document).ready(function () {
+  $('.thumb a').click(function (e) {
+    e.preventDefault();
+    var newImage = $(this).attr('href');
+    $('.mainImage img').attr('src', newImage);
+  });
+}); {% endcomment %}
+
+</script>
+</body>
+</html>
