@@ -59,4 +59,4 @@ cd greatkart-clone
 
 Check out the complete walk-through of the GreatKart eCommerce platform below:
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo]](https://github.com/Ananthakrishnan12/greatkart-django/blob/main/Django-e-commerce-greatkart.gif)
