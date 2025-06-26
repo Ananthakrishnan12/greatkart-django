@@ -50,7 +50,8 @@ GreatKart is a fully functional Django-based eCommerce web application built wit
 
 ```bash
 git clone https://github.com/yourusername/greatkart-clone.git
-cd greatkart-clone
+cd greatkart-clone 
+```
 
 
 ---
